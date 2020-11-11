@@ -70,7 +70,7 @@ healpy==1.10.3
 helpdev==0.6.10
 html5lib==0.999999999
 httpie==0.9.8
-httplib2==0.9.2
+httplib2==0.18.0
 hyperopt==0.2.3
 icdiff==1.9.1
 idna-ssl==1.1.0
